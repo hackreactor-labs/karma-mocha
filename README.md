@@ -1,5 +1,7 @@
 # karma-mocha
 
+> A temporary fork until the next version of karma-mocha is released, including karma-runner/karma-mocha#115
+
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/karma-runner/karma-mocha)
  [![npm version](https://img.shields.io/npm/v/karma-mocha.svg?style=flat-square)](https://www.npmjs.com/package/karma-mocha) [![npm downloads](https://img.shields.io/npm/dm/karma-mocha.svg?style=flat-square)](https://www.npmjs.com/package/karma-mocha)
 

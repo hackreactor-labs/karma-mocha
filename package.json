@@ -1,5 +1,5 @@
 {
-  "name": "karma-mocha",
+  "name": "karma-mocha-exposed",
   "version": "1.1.1",
   "description": "A Karma plugin. Adapter for Mocha testing framework.",
   "main": "lib/index.js",
